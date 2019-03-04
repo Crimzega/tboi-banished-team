@@ -1,0 +1,5 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/boss/" nameimageroot="gfx/ui/boss/" bigportraitroot="gfx/ui/stage/">
+	<player name="Gregory" hp="4" coins="7" skin="Character_Gregory.png" hp="4" nameimage="PlayerName_Gregory.png" portrait="PlayerPortrait_Gregory.png" bigportrait="PlayerPortraitBig_Ellyse.png" skinColor="-1" />
+	<player name="Ellyse" hp="0" dark="4" armor="2" keys="3" canShoot="false" skin="Character_Ellyse.png" nameimage="PlayerName_Ellyse.png" portrait="PlayerPortrait_Ellyse.png" bigportrait="PlayerPortraitBig_Ellyse.png" skinColor="-1" />
+	<player name="Solomon" hp="0" dark="8" coins="10" skin="Character_Solomon.png" nameimage="PlayerName_Solomon.png" portrait="PlayerPortrait_Solomon.png" bigportrait="PlayerPortraitBig_Solomon.png" skinColor="-1" />
+</players>
