@@ -51,8 +51,4 @@ function TeamInfo:GiveGregoryGoldenBomb(gregory)
 	end
 end
 
-function TeamInfo:GetTeamStatsByName(player)
-	return TeamInfo[player:GetName()]
-end
-
 return TeamInfo
